@@ -1,5 +1,3 @@
-Di_NameBlock – FiveM Name Verification System
-
 Di_NameBlock is a FiveM server-side security script that verifies player identity by matching their FiveM profile name with their in-game character name. It also checks for invalid characters, banned words, and logs all actions to Discord.
 
 Useful for roleplay servers that want to maintain professionalism and prevent troll or fake names.
@@ -88,3 +86,5 @@ Every event is logged to Discord:
 🟩 Valid name + successful match
 
 Great for staff monitoring.
+
+![alt text](image.png)
